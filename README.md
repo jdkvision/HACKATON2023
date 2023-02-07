@@ -13,7 +13,7 @@ Fork this ~~following repository https://github.com/jdkvision/HACKATON2023~~ and
 
 ~~Send a link to your repository no later than Sunday, January 22nd at 12:00PM CET as a reply to this email.~~
 
-Feel free to ask questions. Point them to jaroslav.tomecek@novanta.com and michal.dvorak@novanta.com.
+Feel free to ask questions. Point them to ~~jaroslav.tomecek@novanta.com~~ and michal.dvorak@novanta.com.
 
 Usage of 3rd party tools for both tasks is allowed.
 
